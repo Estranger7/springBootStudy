@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /customStarter
+
+estranger:
+  hello:
+    prefix: Hi
+    desc: What's up man
